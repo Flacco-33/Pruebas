@@ -1,0 +1,20 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "Prueba practica para el control de versiones",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convertir": "sass EstiloPriencipal.scss EstiloPriencipal.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flacco-33/Pruebas.git"
+  },
+  "author": "flacco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flacco-33/Pruebas/issues"
+  },
+  "homepage": "https://github.com/Flacco-33/Pruebas#readme"
+}
