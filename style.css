@@ -1,3 +1,12 @@
 body{
     background-color: aqua;
 }
+p{
+    border-radius: 10px;
+}
+div{
+    color:blue;
+}
+.boton{
+    border: 1px solid red;
+}
